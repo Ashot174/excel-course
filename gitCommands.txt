@@ -1,0 +1,18 @@
+git add .
+git commit -m "Finish project config"
+git push -u origin webpack
+
+git checkout main
+git pull
+
+git checkout -b "css-layout"
+
+****** Создание фреймворка 3 ******
+
+git checkout master
+git pull
+git checkout -b "framework-start"
+
+git add .
+git commit -m "Finish base framework functional"
+git push -u origin framework-start
