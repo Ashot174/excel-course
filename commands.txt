@@ -23,6 +23,8 @@
 ******** Создание фреймворка ********
 1. npm install --save-dev @babel/plugin-proposal-class-properties  //static className = 'excel__header' greluc error arajacav, dra hamar install arecinq
 
-
+============================================================================
+********* Роутинг и новые страницы *********************
+1. eslint ./src  // stugum a src -um eslinti inch sxalner kan
 
 
