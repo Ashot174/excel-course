@@ -24,7 +24,14 @@
 1. npm install --save-dev @babel/plugin-proposal-class-properties  //static className = 'excel__header' greluc error arajacav, dra hamar install arecinq
 
 ============================================================================
-********* Роутинг и новые страницы *********************
+********* 7.Роутинг и новые страницы *********************
 1. eslint ./src  // stugum a src -um eslinti inch sxalner kan
+
+================================================================================
+******** 8.Unit Testing *******
+1. npm install -D jest
+2. npm i eslint-plugin-jest
+
+//settings/ languages & framework/javascript/libraries --- @types/jest (miacnum enq)
 
 
