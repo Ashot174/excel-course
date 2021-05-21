@@ -33,5 +33,7 @@
 2. npm i eslint-plugin-jest
 
 //settings/ languages & framework/javascript/libraries --- @types/jest (miacnum enq)
-
-
+==============================================================================================
+****** SOLID DIP ********
+1. Loading.io (loadereneri sayt)
+============================================================================================
